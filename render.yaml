@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: my-library-system
+    env: node
+    plan: free
+    buildCommand: g++ main.cpp -o main && npm install
+    startCommand: node server.js

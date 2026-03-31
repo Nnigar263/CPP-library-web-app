@@ -1,0 +1,25 @@
+{
+  "name": "library-project",
+  "version": "1.0.0",
+  "description": "A fully functional C++ console-based Library Management System that simulates real-world library operations including login, book management, issue/return system, due date tracking, and fine calculation using file handling.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nnigar263/library-management_system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nnigar263/library-management_system/issues"
+  },
+  "homepage": "https://github.com/Nnigar263/library-management_system#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
