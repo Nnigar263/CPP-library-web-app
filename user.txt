@@ -1,0 +1,13 @@
+user_id|Username|password|role
+101|Ashok|admin123|admin
+102|rahul|rahul@2026|user
+103|sneha|pass789|admin
+104|amit|amit007|user
+105|Preet|pr99|user
+106|Nagma|naag123|user
+107|Pankaj|pank123|user
+108|Akhtar|pass123|user
+109|Rajesh|api@123|user
+110|Arpit|arpit123|user
+111|Lakhan|lak123|user
+112|Aagi|Aagi8869|user

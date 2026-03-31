@@ -1,0 +1,4 @@
+BookID|BookName|Author|Quantity
+101|C++ Programming|Kanetkar|8
+102|Java Basics|James Gosling|8
+103|Python Guide|Guido|6
